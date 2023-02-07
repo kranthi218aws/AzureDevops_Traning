@@ -1,1 +1,6 @@
+
+<<<<<<< HEAD
 This is first file added in Development
+=======
+This is first commit in Testing 
+>>>>>>> Testing
