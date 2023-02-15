@@ -6,3 +6,7 @@ This is first commit in Testing
 >>>>>>> Testing
 
 Testing now to add new features
+
+Created new feature branch names feature1
+
+Created new feature branch named feature2
