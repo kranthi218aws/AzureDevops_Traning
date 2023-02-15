@@ -4,3 +4,5 @@ This is first file added in Development
 =======
 This is first commit in Testing 
 >>>>>>> Testing
+
+Testing now to add new features
